@@ -1,4 +1,4 @@
-# PrincipiosEstad-stica2021
+# PrincipiosEstadistica2021
 Notas y bitácora de trabajo de la UA principios de estadística 2021
 
 
