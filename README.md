@@ -9,5 +9,5 @@ Notas y bitácora de trabajo de la UA principios de estadística 2021
 
 ## Semana 2
 
-+10.02.2021: Instalación de los 4 programas
-+11.02.2021: Primer uso en Rstudio 
++ 10.02.2021: Instalación de los 4 programas
++ 11.02.2021: Primer uso en Rstudio 
