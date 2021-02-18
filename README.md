@@ -14,5 +14,5 @@ Notas y bitácora de trabajo de la UA principios de estadística 2021
 
 Semana3
 + 17.02.2021: Laboratorio 1
-
++ 18.02.2021: Laboratorio 2
 
