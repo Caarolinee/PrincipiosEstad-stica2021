@@ -17,3 +17,4 @@ Semana 3
 
 semana 4
 + 24.02.2021: Solución de problemas de tarea
++ 25.02.2021: Trabajo en clase
