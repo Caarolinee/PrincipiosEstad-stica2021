@@ -20,4 +20,6 @@ Semana 4
 + 25.02.2021: Estadisticas descriptivas
 
 Semana 5
++ 03.03.21: Resolución del laboratorio 3
++ 04.03.21: Continuacion del laboratorio 3 y solucion tarea
 
