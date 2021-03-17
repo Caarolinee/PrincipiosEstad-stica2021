@@ -23,3 +23,11 @@ Semana 5
 + 03.03.21: Resolución del laboratorio 3
 + 04.03.21: Continuacion del laboratorio 3 y solucion tarea
 
+semana 6
++ 10.03.2021: Resumen gráfico de un conjunto de datos 
++ 11.03.2021: Histogramas, barplot y pie (cuadro.csv)
+
+semna 7
++17.03.2021: 
++18.03.2021:
+
