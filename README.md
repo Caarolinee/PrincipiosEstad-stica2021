@@ -28,6 +28,6 @@ semana 6
 + 11.03.2021: Histogramas, barplot y pie (cuadro.csv)
 
 semna 7
-+17.03.2021: 
-+18.03.2021:
++ 17.03.2021: 
++ 18.03.2021:
 
