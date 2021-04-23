@@ -27,7 +27,18 @@ semana 6
 + 10.03.2021: Resumen gráfico de un conjunto de datos 
 + 11.03.2021: Histogramas, barplot y pie (cuadro.csv)
 
-semna 7
-+ 17.03.2021: 
-+ 18.03.2021:
+semana 7
++ 17.03.2021: Correlación entre variables
++ 18.03.2021: Correlación ejercicios 
 
+Semana 8
++ 24.03.2021: Correlación continuación
++ 25.03.2021: 
+
+Semana 9
++ 14.04.21: Análisis de regresión 
++ 15.04.21: Asincrona
+
+Semana 10
++ 21.04.21: Análisis de regresión
++ 22.04.21: Ejercicio datos Canopy
