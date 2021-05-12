@@ -42,3 +42,10 @@ Semana 9
 Semana 10
 + 21.04.21: Análisis de regresión
 + 22.04.21: Ejercicio datos Canopy
+
+Semana 11
++ 28.04.2021: Normalidad y homogeneidad 
++ 22.01.2021: Ejercicio de datos Canopy
+
+Semana 12
++12.04.2021: Prueba T de una muestra 
