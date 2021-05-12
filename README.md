@@ -48,4 +48,4 @@ Semana 11
 + 22.01.2021: Ejercicio de datos Canopy
 
 Semana 12
-+12.04.2021: Prueba T de una muestra 
++ 12.04.2021: Prueba T de una muestra 
