@@ -49,3 +49,8 @@ Semana 11
 
 Semana 12
 + 12.04.2021: Prueba T de una muestra 
++ 13.05.2021: Prueba T de muestreos independientes 
+
+Semana 13
++ 19.04.2021: Pruebas T dependientes 
++ 20.04.2021: Fin de curso 
